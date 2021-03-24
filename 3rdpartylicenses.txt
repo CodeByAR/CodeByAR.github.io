@@ -13,12 +13,6 @@ MIT
 @angular/router
 MIT
 
-@ngrx/effects
-MIT
-
-@ngrx/store
-MIT
-
 bootstrap
 MIT
 The MIT License (MIT)
